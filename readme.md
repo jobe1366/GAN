@@ -1,4 +1,4 @@
-### :dart: a mini project for implementing GAN Network by using light version of [celebA](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip) 
+### :dart: A mini project for implementing GAN Network by using light version of [celebA](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip) dataset
 
 ![](gan%20structure%20.png)
 
