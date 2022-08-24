@@ -21,6 +21,7 @@
 >
 >
 
+
 ### *_Generator_ and _Discriminator_ network.*
 ---
 >
@@ -33,9 +34,11 @@
 >
 >
 >
->
+
+
 ### *steps of Training a GAN Network.*
 ---
+
 - Import Library
 - Set Hyperparameters
 - Load Data
