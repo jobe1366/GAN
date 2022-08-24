@@ -1,5 +1,5 @@
 
-### :dart: _A mini project for implementing *GAN* Network by using light version of [celebA](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip) dataset._
+## :dart: _A mini project for implementing *GAN* Network by using light version of [celebA](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip) dataset._
 ---
 
 >
@@ -21,7 +21,7 @@
 >
 >
 
-##### *_Generator_ and _Discriminator_ network.*
+### *_Generator_ and _Discriminator_ network.*
 ---
 >
 >
@@ -34,7 +34,7 @@
 >
 >
 >
-#### *steps of Training a GAN Network.*
+### *steps of Training a GAN Network.*
 ---
 - Import Library
 - Set Hyperparameters
@@ -49,7 +49,7 @@
 
 
 
-#### _result after 50 epoch training_.
+### _result after 50 epoch training_.
 ---
 
 
